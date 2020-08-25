@@ -1,0 +1,31 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    font-family: 'Lobster', cursive;
+}
+
+
+.avatar {
+    margin: 0px;
+}
+
+.avatar img {
+    width: 350px;
+    border-radius: 50%;
+}
+
+.text-indent {
+    text-indent: 20px;
+    margin: 0 20px;
+}
+
+.footer-style{
+    font-family: "Lobster";
+    font-style: italic;
+    font-size: 15px;
+    margin: 30px;
+    color: #100DAA;
+}
